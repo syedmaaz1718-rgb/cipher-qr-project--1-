@@ -1,0 +1,7 @@
+streamlit>=1.40
+cryptography>=42
+qrcode[pil]>=7.4
+opencv-python-headless>=4.8
+numpy
+pillow
+pytest
